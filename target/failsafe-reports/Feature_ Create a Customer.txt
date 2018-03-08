@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: Feature: Create a Customer
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 42.73 s - in Feature: Create a Customer

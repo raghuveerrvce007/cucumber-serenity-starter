@@ -1,6 +1,0 @@
-net\serenitybdd\starter\starter\CucumberTestSuite.class
-net\serenitybdd\starter\stepdefinitions\CreateCustomerSteps.class
-net\serenitybdd\starter\starter\gluecode\CreateCustomerStepDefinitions.class
-net\serenitybdd\starter\pages\ManagerPage.class
-net\serenitybdd\starter\pages\NewCustomerPage.class
-net\serenitybdd\starter\pages\LoginPage.class

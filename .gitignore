@@ -1,1 +1,4 @@
-C:\dev\cucumberproject\cucumber-serenity-starter
+/target
+/.settings
+/.project
+/.classpath
