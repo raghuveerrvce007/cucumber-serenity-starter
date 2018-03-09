@@ -22,25 +22,25 @@
     </properties>
     
     <repositories>
-        <repository>
+       <!--  <repository>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
             <id>vetallurrepo</id>
             <name>vetallurrepo</name>
             <url>http://localhost:8081/nexus/content/repositories/vetallurrepo/</url>
-        </repository>
+        </repository> -->
     </repositories>
 
 <pluginRepositories>
-        <pluginRepository>
+      <!--   <pluginRepository>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
             <id>vetallurrepo</id>
             <name>vetallurrepo</name>
             <url>http://localhost:8081/nexus/content/repositories/vetallurrepo/</url>
-        </pluginRepository>
+        </pluginRepository> -->
     </pluginRepositories>
     
   <dependencies>
